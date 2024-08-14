@@ -1,0 +1,14 @@
+C:\Users\roshani.poojari\Desktop\Training\GuitarApp\bin\Debug\net8.0\GuitarApp.exe
+C:\Users\roshani.poojari\Desktop\Training\GuitarApp\bin\Debug\net8.0\GuitarApp.deps.json
+C:\Users\roshani.poojari\Desktop\Training\GuitarApp\bin\Debug\net8.0\GuitarApp.runtimeconfig.json
+C:\Users\roshani.poojari\Desktop\Training\GuitarApp\bin\Debug\net8.0\GuitarApp.dll
+C:\Users\roshani.poojari\Desktop\Training\GuitarApp\bin\Debug\net8.0\GuitarApp.pdb
+C:\Users\roshani.poojari\Desktop\Training\GuitarApp\obj\Debug\net8.0\GuitarApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roshani.poojari\Desktop\Training\GuitarApp\obj\Debug\net8.0\GuitarApp.AssemblyInfoInputs.cache
+C:\Users\roshani.poojari\Desktop\Training\GuitarApp\obj\Debug\net8.0\GuitarApp.AssemblyInfo.cs
+C:\Users\roshani.poojari\Desktop\Training\GuitarApp\obj\Debug\net8.0\GuitarApp.csproj.CoreCompileInputs.cache
+C:\Users\roshani.poojari\Desktop\Training\GuitarApp\obj\Debug\net8.0\GuitarApp.dll
+C:\Users\roshani.poojari\Desktop\Training\GuitarApp\obj\Debug\net8.0\refint\GuitarApp.dll
+C:\Users\roshani.poojari\Desktop\Training\GuitarApp\obj\Debug\net8.0\GuitarApp.pdb
+C:\Users\roshani.poojari\Desktop\Training\GuitarApp\obj\Debug\net8.0\GuitarApp.genruntimeconfig.cache
+C:\Users\roshani.poojari\Desktop\Training\GuitarApp\obj\Debug\net8.0\ref\GuitarApp.dll
